@@ -298,6 +298,11 @@ a:hover {
 /*---------------------------------------
      HERO                
   -----------------------------------------*/
+.circling {
+  border-radius: 100px;
+  background-color: #010101;
+}
+
 .hero-title {
   color: black;
   display: inline-block;
@@ -606,4 +611,9 @@ a:hover {
     font-size: 20px;
     padding: 0.3rem 2rem 0.6rem 2rem;
   }
+}
+
+.img-fluid {
+  padding: 15%;
+  border-radius: 100px;
 }
